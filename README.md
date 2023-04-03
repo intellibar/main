@@ -1,4 +1,4 @@
-# Intellibar
+# IntelliBar
 
 ### ChatGTP at your fingertips
 
