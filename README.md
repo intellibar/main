@@ -2,7 +2,7 @@
 
 ### ChatGTP at your fingertips
 
-⇧⌘Space and chat — no logins, no captchas, no tab switching.
+`⇧⌘Space` and chat — no logins, no captchas, no tab switching.
 
 ![Hero shot](./assets/hero.png)
 
