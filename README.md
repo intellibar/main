@@ -12,6 +12,7 @@
     - Open Intellibar — ⇧⌘Space
     - New Chat — ⌘N
     - Search Chats — ⌘O
+    - Find — ⌘F
     - Go Back — ⌘[
     - Go Forward — ⌘]
 - Prompt Completion
