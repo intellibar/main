@@ -6,17 +6,23 @@
 
 ![Hero shot](./assets/hero.png)
 
+## Download
+
+- [macOS on Apple Chip](https://s.caret.io/apps/3/download/arm64-mac)
+- [macOS on Intel](https://s.caret.io/apps/3/download/mac)
+
 ## Features
 
-- Keyboard-first design
-    - Open Intellibar — ⇧⌘Space
-    - New Chat — ⌘N
-    - Search Chats — ⌘O
-    - Find — ⌘F
-    - Go Back — ⌘[
-    - Go Forward — ⌘]
-- Prompt Completion
-- Tone Control
+- Open Intellibar `⇧⌘Space`
+- New Chat `⌘N`
+- Search Chats `⌘O`
+- Find `⌘F`
+- History
+    - Go Back `⌘[`
+    - Go Forward `⌘]`
+- Preferences
+    - Prompt Completion
+    - Tone Control
 
 ## A tool you can trust
 
