@@ -20,9 +20,10 @@
 - History
     - Go Back `⌘[`
     - Go Forward `⌘]`
+- Prompt Completion
 - Preferences
-    - Prompt Completion
     - Tone Control
+    - Position — Side and Center
 
 ## A tool you can trust
 
