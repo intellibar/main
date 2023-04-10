@@ -1,6 +1,6 @@
 # How we calculate your spending
 
-OpenAI charges you per [token](https://platform.openai.com/docs/introduction/tokens) (`100` tokens ~= `75` words) [^1]. We count those tokens and multiple them by the price stated on the [OpenAI Pricing page](https://openai.com/pricing).
+OpenAI charges you per [token](https://platform.openai.com/docs/introduction/tokens) (`100` tokens ~= `75` words) [^1]. We count those tokens and multiple them by the price stated on the [OpenAI Pricing page](https://openai.com/pricing). `100,000` words cost around `$1`.
 
 For each question asked, the entire chat up until now + the new question + the answer are counted up by OpenAI as tokens.  
 `Tip:` keep your chats small for less spending.
