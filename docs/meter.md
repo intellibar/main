@@ -1,4 +1,4 @@
-# How IntelliBar calculates your spending
+# How IntelliBar calculates your usage
 
 OpenAI charges per [token](https://platform.openai.com/docs/introduction/tokens) -- `100` tokens is about `75` words. We count those tokens and multiple them based on the price listed on the [OpenAI Pricing page](https://openai.com/pricing) -- about `$1` per `100,000` words.
 
