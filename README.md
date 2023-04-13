@@ -6,6 +6,8 @@
 
 ![Hero shot](./assets/hero.png)
 
+![IntelliBar Video](./assets/video.gif)
+
 ## Download
 
 - [macOS on Apple Chip](https://s.caret.io/apps/3/download/arm64-mac)
