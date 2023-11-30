@@ -1,4 +1,4 @@
-Resources for the ChatGPT app, [IntelliBar](https://intellibar.app/).
+Resources for AI assistant, [IntelliBar](https://intellibar.app/).
 
 How to use this repo:
 
