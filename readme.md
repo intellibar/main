@@ -1,4 +1,4 @@
-Resources for the AI assistant, [IntelliBar](https://intellibar.app/).
+Resources for the AI-powered assistant, [IntelliBar](https://intellibar.app/).
 
 How to use this repo:
 
